@@ -1,3 +1,4 @@
+import "@/styles/global.css";
 import { AntDesign, EvilIcons, Feather, FontAwesome, Ionicons } from "@expo/vector-icons";
 import { Tabs } from "expo-router";
 
